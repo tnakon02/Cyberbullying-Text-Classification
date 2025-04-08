@@ -6,8 +6,7 @@
 (โปรเจ็คของการจบการศึกษา)
 ***   ***
           คำอธิบาย (TH)
-จำแนกข้อความการกลั่นแกล้งทางไซเบอร์
-Cyberbullying Text Classification
+จำแนกข้อความการกลั่นแกล้งทางไซเบอร์ (Cyberbullying Text Classification)
 เป็นงานพัฒนาโมเดลการจำแนกข้อความสำหรับตรวจจับเนื้อหาการกลั่นแกล้งบนโลกออนไลน์ (Cyberbullying) โดยใช้เทคนิคการเรียนรู้เชิงลึก ทั้งในรูปแบบของเครือข่ายประสาทเทียมแบบวนซ้ำ (Recurrent Neural Network: RNN) 
 โดยใช้ หน่วยความจำระยะสั้นระยะยาว (Long Short-Term Memory: LSTM) และ หน่วยเวียนกลับแบบมีประตู (Gated Recurrent Unit: GRU) 
 และโมเดลแบบผสมระหว่าง BERT (Bidirectional Encoder Representations from Transformers) กับ GRU ซึ่งช่วยให้สามารถเข้าใจบริบทของข้อความได้ลึกซึ้งมากยิ่งขึ้น
